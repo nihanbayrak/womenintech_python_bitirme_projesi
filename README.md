@@ -25,3 +25,9 @@
 * ![Ekran Resmi 2022-11-19 23 38 57](https://user-images.githubusercontent.com/32307171/202870787-61b4ead1-707b-4c12-8177-33f91358496e.png)
 * Bonus:en çok ürün satın alan 10 müşteri listesi
 * ![Ekran Resmi 2022-11-19 23 39 59](https://user-images.githubusercontent.com/32307171/202870814-f27f58ad-770b-4a5c-ae03-0bfbafeba16d.png)
+* Müşterilerin hangi çalışandan ne kadar ürün satın aldığı
+* ![Ekran Resmi 2022-11-19 23 52 40](https://user-images.githubusercontent.com/32307171/202871215-7970b5b4-dc17-4784-a236-7fe96317e57b.png)
+* hangi satıcı en fazla hangi ürünü satmış sattıkları arasında
+* ![Ekran Resmi 2022-11-19 23 54 25](https://user-images.githubusercontent.com/32307171/202871255-68f90c09-bdc6-4cee-823a-25da068bdb29.png)
+
+
